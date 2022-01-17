@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BibleWho</string>
+    <string name="edit_message">How YOU doin?</string>
+    <string name="button_send">Send</string>
+</resources>

@@ -1,0 +1,357 @@
+1,0,1,Aaron,Aaron
+2,0,3,Abdon,Abdon
+3,0,1,Abel,Abel
+4,0,3,Abiathar,Abiathar
+5,0,2,Abigail,Abigail
+6,0,3,Abihu,Abihu
+7,0,3,"Abijah, King of Judah",Abijah
+8,0,3,"Abimelech, son of Gideon",Abimelech
+9,0,3,"Abimelech, the king",Abimelech
+10,0,3,Abinadab,Abinadab
+11,0,3,Abiram,Abiram
+12,0,2,Abishag,Abishag
+13,0,3,Abishai,Abishai
+14,0,3,Abital,Abital
+15,0,3,Abner,Abner
+16,0,1,Abraham,Abraham
+17,0,2,Absalom,Absalom
+18,0,3,Adah,Adah
+19,0,1,Adam,Adam
+20,1,3,Agabus,Agabus
+21,0,2,Ahab,Ahab
+22,0,3,Ahasuerus,Ahasuerus
+23,0,3,Ahaz,Ahaz
+24,0,3,"Ahaziah, King of Israel",Ahaziah
+25,0,3,"Ahaziah, King of Judah",Ahaziah
+26,0,3,Ahijah,Ahijah
+27,0,3,Ahimelech,Ahimelech
+28,0,3,Ahinoam,Ahinoam
+29,0,3,Ahithophel,Ahithophel
+30,0,3,Amasa,Amasa
+31,0,3,Amaziah,Amaziah
+32,0,3,Amon,Amon
+33,0,2,Amos,Amos
+34,1,2,Andrew,Andrew
+35,1,2,Anna,Anna
+36,1,2,Annas,Annas
+37,1,2,Apollos,Apollos
+38,1,2,Aquila,Aquila
+39,0,3,Artaxerxes,Artaxerxes
+40,0,3,Asa,Asa
+41,0,3,Asahel,Asahel
+42,0,3,Asaph,Asaph
+43,0,3,Asenath,Asenath
+44,0,2,Asher,Asher
+45,0,3,Atarah,Atarah
+46,0,3,Azubah,Azubah
+47,0,2,Balaam,Balaam
+48,0,2,Balak,Balak
+49,1,2,Barabbas,Barabbas
+50,0,3,Barak,Barak
+51,1,2,Barnabas,Barnabas
+52,1,2,Bartimaeus,Bartimaeus
+53,0,3,Baruch,Baruch
+54,0,3,Barzillai,Barzillai
+55,0,3,Basemath,Basemath
+56,0,1,Bathsheba,Bathsheba
+57,0,3,Belshazzar,Belshazzar
+58,0,3,Benaiah,Benaiah
+59,0,3,Ben-Ammi,Ben-Ammi
+60,0,2,Benjamin,Benjamin
+61,1,2,Bernice,Bernice
+62,0,3,Bezalel,Bezalel
+63,0,3,Bildad,Bildad
+64,0,3,Bilhah,Bilhah
+65,1,2,Caiaphas,Caiaphas
+66,0,1,Cain,Cain
+67,0,2,Caleb,Caleb
+68,0,3,Canaan,Canaan
+69,1,2,Candace,Candace
+70,0,3,Chedorlaomer,Chedorlaomer
+71,1,3,Claudius,Claudius
+72,1,2,Cleopas,Cleopas
+73,1,1,Cornelius,Cornelius
+74,1,3,Crispus,Crispus
+75,0,3,Cush,Cush
+76,0,3,Cyrus,Cyrus
+77,0,3,Dan,Dan
+78,0,3,Darius I,Darius
+79,0,3,Darius the Mede,Darius
+80,0,3,Dathan,Dathan
+81,0,1,David,David
+82,0,3,Debir,Debir
+83,0,1,Delilah,Delilah
+84,1,3,Demas,Demas
+85,1,3,Demetrius,Demetrius
+86,0,2,Dinah,Dinah
+87,0,3,Doeg,Doeg
+88,1,2,Dorcas,Dorcas
+89,1,3,Drusilla,Drusilla
+90,0,3,Ebed-Melek,Ebed-Melek
+91,0,3,Eglah,Eglah
+92,0,3,Eglon,Eglon
+93,0,3,Ehud,Ehud
+94,0,3,Eleazar,Eleazar
+95,0,2,Eli,Eli
+96,0,3,Eliezer,Eliezer
+97,0,3,Elihu,Elihu
+98,0,3,Elimelech,Elimelech
+99,0,3,Eliphaz,Eliphaz
+100,0,1,Elisha,Elisha
+101,0,3,Elisheba ,Elisheba 
+102,1,2,Elizabeth,Elizabeth
+103,0,3,Elon,Elon
+104,0,2,Enoch,Enoch
+105,1,3,Epaphras,Epaphras
+106,1,3,Epaphroditus,Epaphroditus
+107,0,3,Ephah ,Ephah 
+108,0,3,Ephraim,Ephraim
+109,0,3,Ephrath ,Ephrath 
+110,0,3,Ephron,Ephron
+111,0,1,Esau,Esau
+112,0,1,Esther,Esther
+113,1,2,Eunice ,Eunice 
+114,1,3,Euodia,Euodia
+115,0,1,Eve,Eve
+116,0,1,Ezekiel,Ezekiel
+117,0,3,Ezra,Ezra
+118,0,3,Felix,Felix
+119,0,3,Festus,Festus
+120,1,2,Gabriel,Gabriel
+121,0,3,"Gad, son of Jacob",Gad
+122,0,3,"Gad, the prophet",Gad
+123,1,2,Gamaliel,Gamaliel
+124,0,3,Gehazi,Gehazi
+125,0,3,Gershom,Gershom
+126,0,3,Gershon,Gershon
+127,0,2,Gideon,Gideon
+128,0,1,Goliath,Goliath
+129,0,3,Gomer,Gomer
+130,0,2,Habakkuk,Habakkuk
+131,0,3,Hadad,Hadad
+132,0,3,Hadadezer,Hadadezer
+133,0,1,Hagar,Hagar
+134,0,3,Haggai,Haggai
+135,0,2,Ham,Ham
+136,0,2,Haman,Haman
+137,0,3,Hamutal,Hamutal
+138,0,1,Hannah,Hannah
+139,0,3,Hanun,Hanun
+140,0,3,Hazael,Hazael
+141,0,3,Hephzibah,Hephzibah
+142,1,3,Herod Antipas,Herod Antipas
+143,1,3,Herod Archelaus,Herod Archelaus
+144,1,3,Herod Philip,Herod Philip
+145,1,1,Herod the Great,Herod the Great
+146,1,2,Herodias,Herodias
+147,0,2,Hezekiah,Hezekiah
+148,0,3,Hiram,Hiram
+149,0,3,Hoglah,Hoglah
+150,0,2,Hosea,Hosea
+151,0,3,Hoshea,Hoshea
+152,0,3,Huldah,Huldah
+153,0,3,Hushai,Hushai
+154,1,3,Hymenaeus,Hymenaeus
+155,0,3,Ibzan,Ibzan
+156,0,1,Isaac,Isaac
+157,0,2,Isaiah,Isaiah
+158,0,3,Ishbosheth,Ishbosheth
+159,0,2,Ishmael,Ishmael
+160,0,3,Issachar,Issachar
+161,0,3,Ithamar,Ithamar
+162,0,3,Jabez,Jabez
+163,0,3,Jabin,Jabin
+164,0,1,Jacob,Jacob
+165,0,3,Jael,Jael
+166,0,3,Jair,Jair
+167,0,3,Jairus,Jairus
+168,0,1,"James, the Apostle",James
+169,0,2,"James, the Epistle Writer",James
+170,0,3,Japheth,Japheth
+171,1,3,Jason,Jason
+172,0,3,Jedidah,Jedidah
+173,0,3,Jehoaddan,Jehoaddan
+174,0,3,"Jehoahaz, King of Israel",Jehoahaz
+175,0,3,"Jehoahaz, King of Judah",Jehoahaz
+176,0,3,Jehoiachin,Jehoiachin
+177,0,3,Jehoiada,Jehoiada
+178,0,3,Jehoiakim,Jehoiakim
+179,0,3,Jehoram,Jehoram
+180,0,2,Jehoshaphat,Jehoshaphat
+181,0,3,Jehosheba,Jehosheba
+182,0,2,Jehu,Jehu
+183,0,3,Jemimah ,Jemimah 
+184,0,2,Jeremiah,Jeremiah
+185,0,3,Jeroboam 1,Jeroboam 1
+186,0,3,Jeroboam 2,Jeroboam 2
+187,0,3,Jerusha ,Jerusha 
+188,0,3,Jeshua,Jeshua
+189,0,2,Jesse,Jesse
+190,1,1,Jesus,Jesus
+191,0,2,Jethro,Jethro
+192,0,2,Jezebel,Jezebel
+193,0,3,Jezreel,Jezreel
+194,0,3,Joab,Joab
+195,1,3,Joanna,Joanna
+196,0,3,Joash,Joash
+197,0,1,Job,Job
+198,0,3,Jochebed,Jochebed
+199,0,1,John the Apostle,John
+200,0,1,John the Baptist,John
+201,0,1,Jonah,Jonah
+202,0,2,Jonathan,Jonathan
+203,1,2,Joseph of Arimathea,Joseph
+204,1,2,"Joseph, father of Jesus",Joseph
+205,0,1,"Joseph, son of Jacob",Joseph
+206,0,1,Joshua,Joshua
+207,0,3,Josiah,Josiah
+208,0,3,"Jotham, King of Judah",Jotham
+209,0,3,"Jotham, son of Gideon",Jotham
+210,1,1,Judas,Judas
+211,1,2,Jude,Jude
+212,1,3,Julius,Julius
+213,0,3,Keren-Happuch,Keren-Happuch
+214,0,3,Keturah,Keturah
+215,0,3,Keziah,Keziah
+216,0,3,Kish,Kish
+217,0,3,Kohath,Kohath
+218,0,3,Korah,Korah
+219,0,2,Laban,Laban
+220,0,3,Lamech,Lamech
+221,1,1,Lazarus,Lazarus
+222,0,3,Leah,Leah
+223,0,3,Levi,Levi
+224,0,3,Lot,Lot
+225,1,2,Luke,Luke
+226,1,3,Lydia,Lydia
+227,0,3,Maakah,Maakah
+228,0,3,Machir,Machir
+229,0,3,Malachi,Malachi
+230,1,2,Malchus,Malchus
+231,0,3,Manasseh,Manasseh
+232,0,3,Manoah,Manoah
+233,1,2,Mark,Mark
+234,1,1,Martha,Martha
+235,1,1,Mary the Mother of Jesus,Mary
+236,1,1,Mary Magdalene,Mary
+237,1,3,Mary the Mother of James and Joseph,Mary
+238,1,3,Mary the Mother of John Mark,Mary
+239,1,2,Mary the Sister of Martha,Mary
+240,1,2,Matthew,Matthew
+241,1,3,Matthias,Matthias
+242,0,2,Melchizedek,Melchizedek
+243,0,3,Menahem,Menahem
+244,0,3,Merab,Merab
+245,0,3,Merari,Merari
+246,0,3,Mesha,Mesha
+247,0,2,Meshach,Meshach
+248,0,1,Methuselah,Methuselah
+249,0,3,Micah,Micah
+250,0,3,Micaiah,Micaiah
+251,0,2,Michael,Michael
+252,0,2,Michal,Michal
+253,0,3,Milkah,Milkah
+254,0,1,Miriam,Miriam
+255,0,3,Moab,Moab
+256,0,1,Mordecai,Mordecai
+257,0,3,Naamah,Naamah
+258,0,2,Naaman,Naaman
+259,0,2,Nabal,Nabal
+260,0,3,Naboth,Naboth
+261,0,3,Nadab Son of Aaron,Nadab
+262,0,3,"Nadab, King of Israel",Nadab
+263,0,3,Nahor,Nahor
+264,0,3,Nahum,Nahum
+265,0,2,Naomi,Naomi
+266,0,3,Nathan,Nathan
+267,0,2,Nebuchadnezzar,Nebuchadnezzar
+268,0,3,Nebuzaradan,Nebuzaradan
+269,0,3,Neco,Neco
+270,0,2,Nehemiah,Nehemiah
+271,1,1,Nicodemus,Nicodemus
+272,1,3,Nicolaus,Nicolaus
+273,0,2,Nimrod,Nimrod
+274,0,1,Noah,Noah
+275,0,3,Obadiah,Obadiah
+276,0,3,Obed-Edom,Obed-Edom
+277,0,3,Oded,Oded
+278,0,3,Og,Og
+279,0,3,Oholiab,Oholiab
+280,0,3,Oholibamah,Oholibamah
+281,0,3,Omri,Omri
+282,0,3,Onan,Onan
+283,1,2,Onesimus,Onesimus
+284,0,3,Orpah,Orpah
+285,0,3,Othniel,Othniel
+286,0,3,Palti,Palti
+287,0,3,Pashhur,Pashhur
+288,1,1,Paul,Paul
+289,0,3,Pekah,Pekah
+290,0,3,Pekahiah,Pekahiah
+291,0,3,Peleg,Peleg
+292,0,3,Peninnah,Peninnah
+293,0,3,Perez,Perez
+294,1,1,Peter,Peter
+295,1,3,Philemon,Philemon
+296,1,2,Philip the Apostle,Philip
+297,1,2,Philip the Evangelist,Philip
+298,0,2,"Phinehas, son of Eleazar",Phinehas
+299,0,2,"Phinehas, son of Eli",Phinehas
+300,0,3,Phoebe,Phoebe
+301,1,1,Pontius Pilate,Pontius Pilate
+302,0,2,Potiphar,Potiphar
+303,0,2,Potiphera,Potiphera
+304,1,2,Priscilla,Priscilla
+305,0,3,Puah,Puah
+306,0,1,Rachel,Rachel
+307,0,2,Rahab,Rahab
+308,0,1,Rebekah,Rebekah
+309,0,2,Rehoboam,Rehoboam
+310,0,3,Reuben,Reuben
+311,1,3,Rhoda,Rhoda
+312,0,3,Rizpah,Rizpah
+313,0,2,Ruth,Ruth
+314,1,3,Salome,Salome
+315,0,1,Samson,Samson
+316,0,1,Samuel,Samuel
+317,0,3,Sapphira,Sapphira
+318,0,1,Sarah,Sarah
+319,0,1,Saul,Saul
+320,0,2,Seth,Seth
+321,0,2,Shadrach,Shadrach
+322,0,3,Shallum,Shallum
+323,0,3,Shamgar,Shamgar
+324,0,3,Sheba,Sheba
+325,0,3,Shem,Shem
+326,0,3,Shimeath,Shimeath
+327,0,3,Shimrith,Shimrith
+328,0,3,Shiprah,Shiprah
+329,1,2,Silas,Silas
+330,0,2,Simeon,Simeon
+331,0,1,Solomon,Solomon
+332,1,2,Stephen,Stephen
+333,1,3,Syntyche,Syntyche
+334,0,3,"Tamar, daughter-in-law of Judah",Tamar
+335,0,3,"Tamar, daughter of Absalom",Tamar
+336,0,2,"Tamar, daughter of King David",Tamar
+337,0,3,Terah,Terah
+338,1,3,Thaddaeus,Thaddaeus
+339,1,3,Theophilus,Theophilus
+340,1,2,Thomas,Thomas
+341,1,2,Timothy,Timothy
+342,1,2,Titus,Titus
+343,0,3,Tola,Tola
+344,0,3,Uzziah,Uzziah
+345,0,3,Vashti,Vashti
+346,0,3,Zebulun,Zebulun
+347,0,3,Zechariah the prophet,Zechariah
+348,0,3,"Zechariah, King of Israel",Zechariah
+349,1,3,"Zechariah, the father of John the Baptist",Zechariah
+350,0,3,Zedekiah the false prophet,Zedekiah
+351,0,3,"Zedekiah, king of Judah",Zedekiah
+352,0,3,Zephaniah,Zephaniah
+353,0,3,Zerubbabel,Zerubbabel
+354,0,3,Zeruiah,Zeruiah
+355,0,3,Zilpah,Zilpah
+356,0,3,"Zimri, King of Israel",Zimri
+357,0,3,"Zimri, Son of Salu",Zimri

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/chSettings"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="42dp"
+        android:layout_marginLeft="42dp"
+        android:layout_marginTop="3dp"
+        android:onClick="settings"
+        android:text="Change Settings"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="63dp"
+        android:layout_marginRight="6dp"
+        android:onClick="systemExit"
+        android:text="Exit"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+
+    <ScrollView
+        android:id="@+id/sv"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:fadeScrollbars="false"
+        android:layout_below="@+id/chSettings">
+
+        <LinearLayout
+            android:id="@+id/child"
+            android:layout_width="240dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:fadeScrollbars="false"
+            android:orientation="vertical"
+            android:text=""
+            android:textSize="5pt"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.493"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radioAns"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="5dp"
+        android:onClick="checkAnswer"
+        android:text="Submit"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+    <androidx.gridlayout.widget.GridLayout
+        android:id="@+id/yesNoStart"
+        android:layout_width="406dp"
+
+        android:layout_height="100dp"
+
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:visibility="gone"
+        android:layout_below="@+id/textView1"
+        app:columnCount="10"
+        >
+
+
+        <Button
+            android:id="@+id/yesStart"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:onClick="sendMessage"
+            android:text="Yes"
+            android:textAllCaps="false"
+            android:textSize="5pt" />
+
+        <Button
+            android:id="@+id/noStart"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:onClick="systemExit"
+            android:text="No"
+            android:textAllCaps="false"
+            android:textSize="5pt" />
+
+
+    </androidx.gridlayout.widget.GridLayout>
+
+    <RadioGroup
+        android:id="@+id/radioAns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_below="@id/sv">
+
+        <RadioButton
+            android:id="@+id/radioAns1"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Name 1" />
+
+        <RadioButton
+            android:id="@+id/radioAns2"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Name 2" />
+
+        <RadioButton
+            android:id="@+id/radioAns3"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Name 3" />
+
+        <RadioButton
+            android:id="@+id/radioAns4"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Name 4" />
+
+        <!-- Adding 5th button which is invisible because it won't let the user select the last button in the group -->
+        <RadioButton
+            android:id="@+id/radioAns5"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:checked="true"
+            android:text="Name 5"
+            android:visibility="invisible"/>
+    </RadioGroup>
+
+
+    <RadioGroup
+        android:id="@+id/radioOTNT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp">
+
+        <RadioButton
+            android:id="@+id/radioAll"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Guess people from whole bible" />
+        <RadioButton
+            android:id="@+id/radioOT"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Only guess people from the Old Testamant" />
+        <RadioButton
+            android:id="@+id/radioNT"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Only guess people from the New Testamant" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/line"
+        android:layout_width="307dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/radioOTNT"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="------------------------------"
+        android:textSize="8pt" />
+
+
+    <RadioGroup
+        android:id="@+id/radioHowHard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_below="@id/line"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp">
+
+        <RadioButton
+            android:id="@+id/radioEasy"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:checked="true"
+            android:text="Just easy questions." />
+
+        <RadioButton
+            android:id="@+id/radioMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Medium and easy questions." />
+        <RadioButton
+            android:id="@+id/radioHard"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Hard, medium, and easy questions." />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reset"
+        android:layout_centerInParent="true"
+        android:layout_toRightOf="@+id/cancel"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:onClick="saveSettings"
+        android:text="SAVE"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reset"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:onClick="cancelSettings"
+        android:text="CANCEL"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+    <Button
+        android:id="@+id/reset"
+        android:background="#FF746E"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radioHowHard"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center_horizontal"
+        android:onClick="resetScore"
+        android:text="RESET\nSCORE"
+        android:textAllCaps="false"
+        android:textSize="5pt" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/submit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="8pt" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="337dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="73dp"
+        android:textSize="8pt" />
+
+
+</RelativeLayout>
